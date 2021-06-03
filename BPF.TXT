@@ -1,0 +1,22 @@
+Bill of materials generated Mon Apr 05 11:45:57 2021
+Workspace: D:\1PROJECTS\1UPWORK\Counter\DESIGN\BPF.wsx
+
+Package                          Qty  	Designators	PART NUMBER	MANUFACTURER	DESCRIPTION
+=====================================================================================================
+
+C603                               8  	C8[C=560pF] 	ANY		ANY		CAPACITOR
+					C10[C=220pF] 
+					C9[C=6200pF] 
+					C12[C=91pF] 
+					C11[C=6200pF] 
+					C13[C=5600pF] 
+					C7[C=0.1pF] 
+					C14[C=270pF]
+
+L1812CS                            2  	L4[L=18µH] 	L1812CS		COILCRAFT	INDUCTOR
+					L2[L=1.5µH]
+L2222SQ-111                        1  	L5[L=110nH]	L2222SQ-111	COILCRAFT	INDUCTOR
+L2222SQ131                         2  	L3[L=130nH]	L2222SQ131	COILCRAFT	INDUCTOR 
+					L1[L=130nH]
+
+smb_edge                           2   			ANY		ANY		SMB EDGE CONNECTOR			

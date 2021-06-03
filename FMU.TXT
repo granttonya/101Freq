@@ -1,0 +1,51 @@
+Bill of materials generated Mon Apr 05 11:27:34 2021
+Workspace: D:\1PROJECTS\1UPWORK\Counter\DESIGN\FMU.wsx
+
+Package                          Qty  Designators	PART NUMBER	MANUFACTURER		DESCRIPTION
+=============================================================================================================
+WW107                              1  	RFAmp_1		MAR3SM+		MINICIRCUITS		RF AMLIFIER
+
+OPAMP                              3  	A7 A8 A9	TLV3541		TEXAS INSTRUMENTS	OPAMP
+
+CD636                              2  	ADE1_1 ADE1_2	ADE-1+		MINICIRCUITS		MIXER
+
+C603                              11  	C15[C=0.1µF] 
+					1uF 1uF 1uF 1uF
+					C1[C=6.161nF] 
+					C2[C=6.161nF]  
+					C5[C=0.1µF] 
+					C6[C=2nF] 
+					C3[C=0.1µF] 
+					C4[C=1.425nF]
+
+0603                              21  	R2[R=2K] 
+					R3[R=100K] 
+					R1[R=20] 
+					R4[R=100K] 
+					R7[R=47.988] 
+					R6[R=3M] 
+					R5[R=3M] 
+					R10[R=100K] 
+					R11[R=100K] 
+					R8[R=2K] 
+					R12[R=1M] 
+					R9[R=20] 
+					R16[R=20] 
+					R19[R=100K] 
+					R18[R=100K] 
+					R17[R=100K] 
+					R15[R=2K] 
+					R21[R=50] 
+					R20[R=200K] 
+					R14[R=47] 
+					R13[R=1.2M]
+
+smb_edge                           4  	TO_BPF 		ANY		ANY			SMB EDGE CONNECTOR
+					TO_BPF 
+					LO1_INP 
+					FROM_BPF
+
+sma                                1  	LO2_INP		ANY		ANY			AMSMA EDGE CONNECTOR
+
+POST1x2                            3  	3.18MHz__INP 	ANY		ANY			PIN CONNECTOR 
+

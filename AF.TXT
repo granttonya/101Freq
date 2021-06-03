@@ -1,0 +1,56 @@
+Bill of materials generated Mon Apr 05 13:12:33 2021
+Workspace: D:\1PROJECTS\1UPWORK\Counter\DESIGN\AF.wsx
+
+Package                   	Qty  Designators	PART NUMBER	MANUFACTURER		DECSRIPTION
+=============================================================================================================
+SOIC-14                   	01  	A4		TLV3544		TEXAS INSTRUMENTS	QUAD OPAMP
+
+SOIC-8                       	01  	A5		TLV3542		TEXAS INSTRUMENTS	DUAL OPAM
+
+SOT-23				01	CMP		LMV761		TEXAS INSTRUMENTS	PRECISION COMPARATOR
+
+R0402                        	22  	R38[R=56.2] 	ANY		ANY			RESISTORS
+					R36[R=1KO] 
+					R32[R=34.8]
+					R40[R=1260] 
+					R39[R=500] 
+					R31[R=500]
+					R35[R=500] 
+					R33[R=18] 
+					R34[R=64.9] 
+					R27[R=500]
+					R30[R=4.53]
+					R41[R=68K]
+					R37[R=1] 
+					R22[R=1] 
+					R43[R=29.4]
+					R25[R=1.4] 
+					R26[R=56.9] 
+					R28[R=352.0] 
+					R23[R=500] 
+					R24[R=120] 
+					R42[R=200K] 
+					R29[R=1.69]
+
+C0402				10	C20[C=680pF] 	ANY		ANY			CAPACITORS			 
+					C25[C=680pF] 
+					C26[C=1300pF] 
+					C22[C=910pF] 
+					C21[C=680pF] 				
+					C24[C=1100pF]					
+					C17[C=680pF] 
+					C19[C=680pF] 
+					C18[C=430pF] 					 
+					C23[C=680pF] 
+
+C603                               3  	0.1uF 
+					0.1uF 0.1uF	ANY		ANY			CAPACITORS
+					
+TANTALUM                           1  	10uF		ANY		ANY			CAPACITOR
+
+
+smb_edge                           1  	INP		ANY		ANY			AMB EDGE CONNECTOR
+
+SMB_P                              1  	OUTP		ANY		ANY			AMB PCB CONNECTOR (surface mount)
+
+POST1x2                            1  	+5V		any		any			DOUBLE PIN CONNECTOR

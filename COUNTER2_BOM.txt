@@ -1,0 +1,58 @@
+Partlist exported from D:/1PROJECTS/1UPWORK/Counter/DESIGN/COUNTER2.sch at 12/04/2021 21:41
+
+Part Value      Device      Package    Description                          MF    MPN        OC_FARNELL OC_NEWARK POPULARITY
+DIS1 HD-A103    HD-A103     HDSP-A     LED DISPLAY                                           unknown    unknown   0         
+DIS2 HD-A103    HD-A103     HDSP-A     LED DISPLAY                                           unknown    unknown   0         
+DIS3 HD-A103    HD-A103     HDSP-A     LED DISPLAY                                           unknown    unknown   0         
+DIS4 HD-A103    HD-A103     HDSP-A     LED DISPLAY                                           unknown    unknown   0         
+DIS5 HD-A103    HD-A103     HDSP-A     LED DISPLAY                                           unknown    unknown   0         
+DIS6 HD-A103    HD-A103     HDSP-A     LED DISPLAY                                           unknown    unknown   0         
+RA1             R-US_R0805  R0805      RESISTOR, American symbol                                                            
+RA2             R-US_R0805  R0805      RESISTOR, American symbol                                                            
+RA3             R-US_R0805  R0805      RESISTOR, American symbol                                                            
+RA4             R-US_R0805  R0805      RESISTOR, American symbol                                                            
+RA5  300        R-US_R0805  R0805      RESISTOR, American symbol                                                            
+RA6             R-US_R0805  R0805      RESISTOR, American symbol                                                            
+RB1             R-US_R0805  R0805      RESISTOR, American symbol                                                            
+RB2             R-US_R0805  R0805      RESISTOR, American symbol                                                            
+RB3             R-US_R0805  R0805      RESISTOR, American symbol                                                            
+RB4             R-US_R0805  R0805      RESISTOR, American symbol                                                            
+RB5             R-US_R0805  R0805      RESISTOR, American symbol                                                            
+RB6             R-US_R0805  R0805      RESISTOR, American symbol                                                            
+RC1             R-US_R0805  R0805      RESISTOR, American symbol                                                            
+RC2             R-US_R0805  R0805      RESISTOR, American symbol                                                            
+RC3             R-US_R0805  R0805      RESISTOR, American symbol                                                            
+RC4             R-US_R0805  R0805      RESISTOR, American symbol                                                            
+RC5             R-US_R0805  R0805      RESISTOR, American symbol                                                            
+RC6             R-US_R0805  R0805      RESISTOR, American symbol                                                            
+RD1             R-US_0204/5 0204/5     RESISTOR, American symbol                                                            
+RD2  300        R-US_0204/5 0204/5     RESISTOR, American symbol                                                            
+RD3  300        R-US_0204/5 0204/5     RESISTOR, American symbol                                                            
+RD4  300        R-US_0204/5 0204/5     RESISTOR, American symbol                                                            
+RD5  300        R-US_0204/5 0204/5     RESISTOR, American symbol                                                            
+RD6  300        R-US_0204/5 0204/5     RESISTOR, American symbol                                                            
+RE1             R-US_0204/5 0204/5     RESISTOR, American symbol                                                            
+RE2  300        R-US_0204/5 0204/5     RESISTOR, American symbol                                                            
+RE3  300        R-US_0204/5 0204/5     RESISTOR, American symbol                                                            
+RE4  300        R-US_0204/5 0204/5     RESISTOR, American symbol                                                            
+RE5  300        R-US_0204/5 0204/5     RESISTOR, American symbol                                                            
+RE6  300        R-US_0204/5 0204/5     RESISTOR, American symbol                                                            
+RF1             R-US_0204/5 0204/5     RESISTOR, American symbol                                                            
+RF2  300        R-US_0204/5 0204/5     RESISTOR, American symbol                                                            
+RF3  300        R-US_0204/5 0204/5     RESISTOR, American symbol                                                            
+RF4  300        R-US_0204/5 0204/5     RESISTOR, American symbol                                                            
+RF5  300        R-US_0204/5 0204/5     RESISTOR, American symbol                                                            
+RF6  300        R-US_0204/5 0204/5     RESISTOR, American symbol                                                            
+RG1             R-US_0204/5 0204/5     RESISTOR, American symbol                                                            
+RG2             R-US_0204/5 0204/5     RESISTOR, American symbol                                                            
+RG3             R-US_0204/5 0204/5     RESISTOR, American symbol                                                            
+RG4             R-US_0204/5 0204/5     RESISTOR, American symbol                                                            
+RG5             R-US_0204/5 0204/5     RESISTOR, American symbol                                                            
+RG6             R-US_0204/5 0204/5     RESISTOR, American symbol                                                            
+X1   22-23-2091 22-23-2091  22-23-2091 .100" (2.54mm) Center Header - 9 Pin MOLEX 22-23-2091 1756827    56H0450   1         
+X2   22-23-2091 22-23-2091  22-23-2091 .100" (2.54mm) Center Header - 9 Pin MOLEX 22-23-2091 1756827    56H0450   1         
+X3   22-23-2091 22-23-2091  22-23-2091 .100" (2.54mm) Center Header - 9 Pin MOLEX 22-23-2091 1756827    56H0450   1         
+X4   22-23-2091 22-23-2091  22-23-2091 .100" (2.54mm) Center Header - 9 Pin MOLEX 22-23-2091 1756827    56H0450   1         
+X5   22-23-2091 22-23-2091  22-23-2091 .100" (2.54mm) Center Header - 9 Pin MOLEX 22-23-2091 1756827    56H0450   1         
+X6   22-23-2091 22-23-2091  22-23-2091 .100" (2.54mm) Center Header - 9 Pin MOLEX 22-23-2091 1756827    56H0450   1         
+X7   22-23-2021 22-23-2021  22-23-2021 .100" (2.54mm) Center Header - 2 Pin MOLEX 22-23-2021 1462926    25C3832   40        
